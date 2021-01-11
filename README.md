@@ -1,5 +1,5 @@
 # cka  (kubernetes)
-
+I want to learn how the version control project work with git
 
  CKA (Project Title)
 
